@@ -1,4 +1,4 @@
-
+// Scenario : From open App to Home Screen App Diet Meal
 
 describe('Open Diet Meal Application', function() {
     it('should open Diet Meal app', async () => {
